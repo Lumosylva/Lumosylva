@@ -40,7 +40,7 @@
 
 <p>&emsp;&emsp;👨🏻‍💻 I'm a Python and Java programmer who loves exploring new technologies.</p>
 <p>&emsp;&emsp;🔭 I am currently doing quantitative trading research.</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;🔥 <strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
 
