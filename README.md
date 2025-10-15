@@ -17,7 +17,6 @@
   <div>
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=Lumosylva&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lumosylva)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
 
@@ -46,6 +45,12 @@
 </td></tr>
 
 <tr><td>
+
+<div align="center" >
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumosylva&show_icons=true&theme=cobalt#gh-dark-mode-only&bg_color=00000000)
+
+</div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
