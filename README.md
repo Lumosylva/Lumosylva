@@ -5,9 +5,9 @@
 
   <!-- knock code pictures -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset=""assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset=""assets/images/developer.svg" height="225px" />
+    <img src="assets/images/coding.gif" />
   </picture>
 
   <!-- for beauty -->
@@ -36,7 +36,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="assets/avatar.png" />
+<img align="right" width="88" src="assets/images/avatar.png" />
 
 <p>&emsp;&emsp;👨🏻‍💻 I'm a Python and Java programmer who loves exploring new technologies.</p>
 <p>&emsp;&emsp;🔭 I am currently doing quantitative trading research.</p>
@@ -55,7 +55,7 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="assets/images/hr.gif" />
 
 <div align="center" >
 
@@ -92,12 +92,12 @@
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+<img height="100" width="100" src="assets/images/html.webp">
+<img height="100" width="100" src="assets/images/cssgif.webp">
+<img height="100" width="100" src="assets/images/vscode.webp">
+<img height="95" width="95" src="assets/images/vue.webp">
+<img height="100" width="100" src="assets/images/python.webp">
+<img height="100" width="100" src="assets/images/js.webp">
+<img height="100" width="100" src="assets/images/github.webp">
 
 </div>
