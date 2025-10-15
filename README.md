@@ -94,10 +94,10 @@
 <!-- gif -->
 <img height="65" width="65" src="assets/images/html.webp">
 <img height="65" width="65" src="assets/images/cssgif.webp">
-<img height="65" width="65" src="assets/images/vscode.webp">
-<img height="70" width="70" src="assets/images/vue.webp">
-<img height="65" width="65" src="assets/images/python.webp">
-<img height="65" width="65" src="assets/images/js.webp">
-<img height="65" width="65" src="assets/images/github.webp">
+<img height="63" width="63" src="assets/images/vscode.webp">
+<img height="68" width="68" src="assets/images/vue.webp">
+<img height="63" width="63" src="assets/images/python.webp">
+<img height="63" width="63" src="assets/images/js.webp">
+<img height="63" width="63" src="assets/images/github.webp">
 
 </div>
