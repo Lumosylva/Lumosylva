@@ -48,7 +48,7 @@
 
 <div align="center" >
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumosylva&show_icons=true&theme=cobalt#gh-dark-mode-only&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumosylva&show_icons=true&theme=cobalt&bg_color=00000000)
 
 </div>
 
