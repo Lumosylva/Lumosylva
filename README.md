@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- dynamic typing effect -->
-  <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Lumosylva;Have+a+nice+day+!" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Lumosylva;Have+a+nice+day+!)](https://git.io/typing-svg)
 
   <!-- knock code pictures -->
   <picture>
