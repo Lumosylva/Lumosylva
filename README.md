@@ -1,8 +1,7 @@
 <div align="center">
-  <div>
+
   <!-- dynamic typing effect -->
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Lumosylva;Have+a+nice+day+!" alt="Typing SVG" /></a>
-  </div>
+  <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Lumosylva;Have+a+nice+day+!" alt="Typing SVG" /></a>
 
   <!-- knock code pictures -->
   <picture>
@@ -18,6 +17,9 @@
   <div>
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=Lumosylva&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lumosylva)](https://github.com/anuraghazra/github-readme-stats)
+
   </div>
 
   <picture>
@@ -25,9 +27,9 @@
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/Lumosylva/Lumosylva/blob/output/github-snake.svg" />
       <img alt="github-snake" src="github-snake.svg" />
   </picture>
-
 </div>
     
+
 #  🙋 
 
 <table>
@@ -48,7 +50,7 @@
 
 <div align="center" >
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumosylva&show_icons=true&theme=cobalt#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumosylva&show_icons=true&theme=cobalt#gh-dark-mode-only&bg_color=00000000)
 
 </div>
 
