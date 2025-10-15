@@ -5,8 +5,8 @@
 
   <!-- knock code pictures -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=""assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset=""https://github.com/Lumosylva/Lumosylva/blob/main/assets/images/developer.svg" height="225px" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/images/developer.svg" height="225px" />
     <img src="assets/images/coding.gif" />
   </picture>
 
