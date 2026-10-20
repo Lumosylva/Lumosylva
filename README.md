@@ -38,8 +38,6 @@ These days, I'm focused on quantitative trading research.
 
 **We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.**
 
-<br clear="right" />
-
 ## Technologies
 
 <div align="center">
