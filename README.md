@@ -28,15 +28,15 @@
 </div>
     
 
-# About Me
+## About Me
 
 <img align="right" width="88" src="assets/images/avatar.png" alt="Lumosylva's avatar" />
 
-👨🏻‍💻 I'm a Python and Java developer who enjoys exploring new technologies.
+👨🏻 I'm a Python and Java developer who enjoys exploring new technologies.
 
-🔭 These days, I'm focused on quantitative trading research.
+These days, I'm focused on quantitative trading research.
 
-🔥 **We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.**
+**We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.**
 
 <br clear="right" />
 
