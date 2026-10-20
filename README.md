@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- dynamic typing effect -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Lumosylva;Have+a+nice+day+!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Lumosylva;Have+a+nice+day+!" alt="Hi, I'm Lumosylva. Have a nice day!" /></a>
 
   <!-- knock code pictures -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="assets/images/developer.svg" height="225px" />
-    <img src="assets/images/coding.gif" />
+    <img src="assets/images/coding.gif" alt="Coding-themed animation" />
   </picture>
 
   <!-- for beauty -->
@@ -28,74 +28,37 @@
 </div>
     
 
-#  🙋 
+# About Me
 
-<table>
+<img align="right" width="88" src="assets/images/avatar.png" alt="Lumosylva's avatar" />
 
-<tr><td>
+👨🏻‍💻 I'm a Python and Java developer who enjoys exploring new technologies.
 
-### 🤺 About Me
+🔭 These days, I'm focused on quantitative trading research.
 
-<img align="right" width="88" src="assets/images/avatar.png" />
+<br clear="right" />
 
-<p>&emsp;&emsp;👨🏻‍💻 I'm a Python and Java programmer who loves exploring new technologies.</p>
-<p>&emsp;&emsp;🔭 I am currently doing quantitative trading research.</p>
-<p>&emsp;&emsp;🔥 <strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+---
 
-</td></tr>
+## Technologies
 
-<tr><td>
-
-<div>&nbsp;</div>
-
-<div align="center" >
-
-</div>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="assets/images/hr.gif" />
-
-<div align="center" >
-
-<div>&nbsp;</div>
-
-<!--  skill badge -->
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
-![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
-
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=c,cpp,ts,mongodb,idea,git" /><br>
-
-<!-- svg -->
-<img src="assets/images/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="assets/images/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="assets/images/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
-<img src="assets/images/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="assets/images/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="assets/images/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="assets/images/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
-
-<!-- gif -->
-<img height="65" width="65" src="assets/images/html.webp">
-<img height="65" width="65" src="assets/images/cssgif.webp">
-<img height="63" width="63" src="assets/images/vscode.webp">
-<img height="68" width="68" src="assets/images/vue.webp">
-<img height="63" width="63" src="assets/images/python.webp">
-<img height="63" width="63" src="assets/images/js.webp">
-<img height="63" width="63" src="assets/images/github.webp">
-
+<div align="center">
+  <strong>Languages</strong><br>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=flat" />
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=000&style=flat" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" />
+  <br><br>
+  <strong>Web, Data &amp; Tools</strong><br>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=flat" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff&style=flat" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" />
 </div>
