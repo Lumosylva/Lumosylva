@@ -40,8 +40,6 @@ These days, I'm focused on quantitative trading research.
 
 <br clear="right" />
 
----
-
 ## Technologies
 
 <div align="center">
